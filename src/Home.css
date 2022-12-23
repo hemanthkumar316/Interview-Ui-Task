@@ -1,0 +1,84 @@
+.header {
+  background-image: url('./Images/header-bg.png');
+  color: aliceblue;
+  width: 100%;
+  height: 600px;
+  display: flex;
+  align-items: flex-end;
+  padding-left: 160px;
+  padding-bottom: 120px;
+}
+
+.text {
+  font-size: 500%;
+  font-weight: 900;
+}
+
+.content2 {
+  margin-top: 30px;
+  background-color: rgba(173, 9, 91, 0.836);
+  color: white;
+  padding-top: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 20px;
+}
+
+.content3 {
+  background-color: gainsboro;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.card {
+  margin: 10px;
+}
+
+span {
+  display: flex;
+  justify-content: center;
+}
+
+.card-circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45px;
+  height: 45px;
+  background-color: aliceblue;
+  border-radius: 50%;
+  border: 0.5px solid black;
+  margin-bottom: 0;
+}
+
+.border-dark {
+  padding: 10px;
+}
+
+.text1 {
+  margin-top: 90px;
+}
+
+footer {
+  background-color: gainsboro;
+  padding: 30px;
+}
+
+.fa-brands {
+  font-size: 30px;
+}
+
+.vl{
+  border-left: 1px solid black;
+  height: 330px;
+  margin-right: 20px;
+}
+
+.content5 {
+  background-color: black;
+  color: darkgrey;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
